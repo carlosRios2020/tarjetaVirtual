@@ -289,4 +289,19 @@ $(document).ready(function(){
 		});
 });
 
-var nombre = document.querySelector('#nombre');
+var logo = document.querySelector('#div_logo');
+let nombre =document.createElement('h1');
+ nombre.innerHTML="Bcards Colombia"
+ div_logo.appendChild(nombre);
+ nombre.style.textAlign="center";
+ nombre.style.paddingTop="10px";
+
+ var img = document.querySelector('#imagen');
+ let imagen =document.createElement('img');
+ imagen.src= "img/perfil.jpg";
+
+ img.appendChild(imagen).style.width ="150px"
+ 
+ img.style.paddingTop="10px";
+
+ 

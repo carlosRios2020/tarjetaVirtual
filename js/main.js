@@ -288,3 +288,4 @@ $(document).ready(function(){
 			altoInfo();
 		});
 });
+

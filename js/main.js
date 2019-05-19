@@ -300,7 +300,7 @@ let nombre =document.createElement('h1');
  let imagen =document.createElement('img');
  imagen.src= "img/perfil.jpg";
 
- img.appendChild(imagen).style.width ="150px",height="150px";
+ img.appendChild(imagen).style.width ="150px",height="160px";
  
- img.style.paddingTop="10px";
+ img.style.paddingTop="10px",paddingButton="10px";
 

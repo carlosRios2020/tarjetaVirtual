@@ -289,3 +289,4 @@ $(document).ready(function(){
 		});
 });
 
+var nombre = document.querySelector('#nombre');
